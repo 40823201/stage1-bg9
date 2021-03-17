@@ -22,10 +22,14 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210317232509.1"><vh>slide4-1</vh></v>
+<v t="leo.20210317232836.1"><vh>slide4-2</vh></v>
+<v t="leo.20210317233743.1"><vh>slide4-3</vh></v>
+<v t="leo.20210317235407.1"><vh>slide4-4</vh></v>
+<v t="leo.20210317235606.1"><vh>slide4-5</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -208,19 +212,19 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-   &lt;h1&gt;協同產品設計實習2021&lt;/h1&gt;
+   &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
    &lt;h2&gt;Stage1-bg9&lt;/h9&gt;
    &lt;p&gt;
-       &lt;small&gt;Teammate&lt;a href="https://github.com/40823217/stage1-bg9"&gt;40823217&lt;/a&gt;and&lt;a href="https://github.com/40823201/stage1-bg9"&gt;40823201&lt;/a&gt;&lt;/small&gt;
+       &lt;small&gt; Teammate &lt;a href="https://github.com/40823217/stage1-bg9"&gt;40823217&lt;/a&gt;  and &lt;a href="https://github.com/40823201/stage1-bg9"&gt;40823201&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
  &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+    &lt;h2&gt;機車的空力套件&lt;/h2&gt;
+ &lt;p&gt;&lt;img alt="" height="300" src="./../images/螢幕擷取畫面 (21).png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h4&gt;動機:想要藉由空力套件去切割氣流，進而減少風阻以達到騎乘時能更佳的速度，也讓整個騎乘的過程更加穩定。&lt;/h4&gt;
 &lt;/section&gt;
 
 </t>
@@ -230,37 +234,17 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+<t tx="leo.20200818170725.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;設計概念&lt;/h2&gt;
+    &lt;p&gt;利用鎖在機車前方的兩片風翼用來切開騎乘時所造成的風阻，使機車在騎乘時更加穩定，且配合機車本身的流線車形，可以使氣流更快更順的通過車體&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
@@ -646,5 +630,32 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210317232509.1">&lt;section&gt;
+    &lt;h2&gt;設計圖&lt;/h2&gt;
+    &lt;h4&gt;設計者40823201&lt;/h4&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="./../images/螢幕擷取畫面 (19).png" width="500"&gt; &lt;/p&gt;
+    &lt;p&gt;主要是由兩片風翼來執行切割風阻的任務 &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210317232836.1">&lt;section&gt;
+    &lt;h2&gt;第一版&lt;/h2&gt;
+     &lt;p&gt;&lt;img alt="" height="300" src="./../images/螢幕擷取畫面 (20).png" width="450"&gt; &lt;img alt="" height="300" src="./../images/螢幕擷取畫面 (21).png" width="450"&gt;&lt;/p&gt;
+    &lt;p&gt;還有些地方需要去改進，例如:去加強切割風阻的能力，讓整體更加穩定 &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210317233743.1">&lt;section&gt;
+    &lt;h2&gt;第二版&lt;/h2&gt;
+     &lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;img alt="" height="300" src="./../images/螢幕擷取畫面 (29).png" width="500"&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;我們將面風處那側加上圓角，讓它可以更加快速的把氣流給分散掉 &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317235407.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="300" src="./../images/螢幕擷取畫面 (26).png" width="500"&gt;&lt;img alt="" height="300" src="./../images/螢幕擷取畫面 (27).png" width="500"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210317235606.1">&lt;section&gt;
+     &lt;p&gt;&lt;img alt="" height="300" src="./../images/螢幕擷取畫面 (28).png" width="500"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
