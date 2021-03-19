@@ -33,7 +33,9 @@
 <v t="leo.20210318222034.1"><vh>slide5-2</vh></v>
 <v t="leo.20210318222054.1"><vh>slide5-3</vh></v>
 </v>
-<v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="leo.20210319134845.1"><vh>6</vh></v>
+<v t="leo.20200818171215.1"><vh>slide 7</vh></v>
+<v t="leo.20210319135417.1"><vh>SLIDE8</vh></v>
 </v>
 </v>
 </v>
@@ -261,5 +263,17 @@ vertical: body pane on the botton</t>
      
 &lt;/section&gt;
 </t>
+<t tx="leo.20210319134845.1">&lt;section data-auto-animate&gt;
+    &lt;h2&gt;PDF&lt;/h2&gt;
+    &lt;p&gt; &lt;a href="https://drive.google.com/file/d/1Lscjg5C5LCTMkUBzlYSTsNX-a_HJk_W8/view"&gt;PDF檔&lt;/a&gt;&lt;/p&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319135417.1">&lt;section data-auto-animate&gt;
+    &lt;h2&gt;參考資料&lt;/h2&gt;
+    &lt;p&gt;設計的概念: &lt;a href="https://www.kingautos.net/60678"&gt;https://www.kingautos.net/60678&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;想法出處: &lt;a href="https://www.google.com.tw/search?q=FORCE+%E5%AE%9A%E9%A2%A8%E7%BF%BC&amp;sxsrf=ALeKk003EzX33OziuScir3vWg7O31ppKSA:1616133529419&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjctrjH1rvvAhUlxosBHSRwBoMQ_AUoAXoECBIQAw&amp;biw=1396&amp;bih=657"&gt;Force定風翼&lt;/a&gt;&lt;/p&gt;
+    
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
